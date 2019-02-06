@@ -1,0 +1,37 @@
+h1{
+	text-transform: uppercase;
+	text-align: center;
+	letter-spacing: 10px;
+	font-family:Palatino;
+	font-size:3em;
+}
+h2{
+	text-transform: uppercase;
+	text-align: center;
+	letter-spacing: 5px;
+	font-family:Palatino;
+	font-size:18px;
+	margin-top:5%;
+}
+body{
+	text-align: center;
+	background: linear-gradient(to right,red,yellow);
+}
+#footer{
+	position:fixed;
+	height:5%;
+	min-height:40px;
+	left:0;
+	right:0;
+	bottom:0;
+	border-top:2px solid black;
+	font-weight: bold;
+	font-style: bold;
+	font-family: cursive;
+	background-color:grey;
+}
+.random{
+	width:8em;
+	background-color:white;
+	color:black;
+}
